@@ -2,11 +2,11 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Compartiendo - MJMC
 
-Final project for the Building AI course
+Final project for the Building AI course in Huatusco
 
-## Summary
+## Resumen
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
